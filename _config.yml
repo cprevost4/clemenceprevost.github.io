@@ -20,8 +20,8 @@ navbar-links:
   Projects:
   Teaching:
   CV: 
-    - in French:
-    - in English: 
+    - FR:
+    - EN: 
 
 # --- Logo --- #
 
@@ -44,7 +44,7 @@ round-avatar: true
 social-network-links:
    email: "clemence.prevost@univ-lille.fr"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-   facebook: deanattali
+#  facebook: deanattali
    github: cprevost4
 #  medium: yourname
 #  reddit: yourname
