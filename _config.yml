@@ -23,8 +23,8 @@ navbar-links:
   Projects:
   Teaching:
   CV: 
-    - FR:
-    - EN: 
+    - FR: "/assets/img/CV_FR.pdf"
+    - EN: "/assets/img/CV_EN.pdf"
 
 # --- Logo --- #
 
