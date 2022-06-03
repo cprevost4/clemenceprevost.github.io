@@ -8,6 +8,9 @@
 # Name of website
 title: Clémence Prévost
 
+# A short description
+description: Post-doctoral fellow, Univ. Lille, France
+
 # Your name to show in the footer
 author: Clémence Prévost
 
@@ -15,7 +18,7 @@ author: Clémence Prévost
 
 navbar-links:
   About: "aboutme"
-  Publications: "https://beautifuljekyll.com"
+  Publications: 
   Codes:
   Projects:
   Teaching:
