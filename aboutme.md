@@ -32,7 +32,7 @@ This includes applications in <b>astrophysics, remote sensing, and biomedical im
 
 ## Others
 
-### Conference organization
+### Organization of conferences and seminars
 
 - <b>Student member in the organizing commitee</b> for ENBIS 2018 (Nancy, FR 🇫🇷): preparation, registration and technical support
 - <b>Student member in the organizing commitee</b> for CAMSAP 2019 (Le Gosier, Guadeloupe, West Indies, FR 🇫🇷): registration
