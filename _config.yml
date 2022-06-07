@@ -20,8 +20,8 @@ navbar-links:
   About: "aboutme"
   Publications: "publications"
   Codes: "codes"
-  Projects:
-  Teaching:
+  Projects: "projects"
+  Teaching: "teaching"
   CV: 
     - FR: "/assets/img/CV_FR.pdf"
     - EN: "/assets/img/CV_EN.pdf"
