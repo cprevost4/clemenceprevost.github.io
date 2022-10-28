@@ -7,6 +7,8 @@ Hereafter, you'll find links for my softwares, related to my published papers.
 
 ## Super-resolution and unmixing in remote sensing
 
+<b NEW !</b> [Tensor-based hyperspectral super-resolution toolbox](https://drive.google.com/file/d/1dwLwwNTseMGIGhxS432BC3PREkJSMlo7/view?usp=share_link)
+
 [Hyperspectral Super-Resolution with Coupled Tucker Approximation: Recoverability and SVD-based algorithms](https://cprevost4.github.io/HSR_Software/)
 
 [Coupled tensor LL1 models for joint fusion and unmixing of an unknown super-resolution image, accounting for inter-image variability](https://cprevost4.github.io/LL1_HSR_HU/)
