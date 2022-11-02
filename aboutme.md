@@ -36,12 +36,14 @@ This includes applications in <b>astrophysics, remote sensing, and biomedical im
 
 - <b>Student member in the organizing commitee</b> for ENBIS 2018 (Nancy, FR 🇫🇷): preparation, registration and technical support
 - <b>Student member in the organizing commitee</b> for CAMSAP 2019 (Le Gosier, Guadeloupe, West Indies, FR 🇫🇷): registration
+- <b>Organizer of the PhD Coffee</b>, a monthly seminar dedicated to non-permanent researchers of the SIGMA team in the CRIStAL laboratory.
 
 ### Reviewer
 
-IEEE Transactions on Signal Processing, IEEE Transactions on Geoscience and Remote Sensing, IEEE Journal of Selecting Topics in Signal Processing, Elsevier Signal Processing, Elsevier Digital Signal Processing, Taylor and Francis Geocarto International, IET Signal Processing, Optica Prism
+IEEE Transactions on Signal Processing, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Image Processing, IEEE Journal of Selecting Topics in Signal Processing, Elsevier Signal Processing, Elsevier Digital Signal Processing, Taylor and Francis Geocarto International, IET Signal Processing, Optica Prism
 
 ### Awards 
 
+- My thesis, defended in 2021, was awarded the prize of Best Thesis of the IAEM Doctoral School of University of Lorraine.
 - In 2022, I participated to the international mediation competition <b>Ma thèse en 180 secondes</b>. I ranked 3rd for the Grand-Est region ! 🎉
 
