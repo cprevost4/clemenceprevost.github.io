@@ -13,6 +13,7 @@ Inter-image Variability](https://hal.archives-ouvertes.fr/hal-03106874/), Borsoi
 - [Hyperspectral super-resolution with coupled Tucker approximation: Identifiability and SVD-based algorithms](https://arxiv.org/pdf/1811.11091.pdf) - Prévost, C., Usevich, K., Comon, P. and Brie, D. - *IEEE Transactions on Signal Processing, vol. 68, p.931-946, 2020* [[CODE]](https://cprevost4.github.io/HSR_Software/)
 
 ### International conference papers
+- [Nonnegative Block-term Decomposition With the beta-divergence: joint data fusion and blind spectral unmixing](https://hal.archives-ouvertes.fr/hal-03831661) - Prévost, C. and Leplat, V. - To appear in *2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*
 - [Fast fusion of hyperspectral and multispectral images: a Tucker approximation approach](https://hal.archives-ouvertes.fr/hal-03617759) - Prévost C., Chainais P. and Boyer, R. - *2022 IEEE International Conference on Image Processing (ICIP)* [[CODE]](https://cprevost4.github.io/enhanced_scott/)
 - [Multi-frame super-resolution MRI using coupled low-rank Tucker approximation](https://hal.archives-ouvertes.fr/hal-03617754) - Prévost C. and Odille F. -*2022 European Signal Processing Conference (EUSIPCO)* [[CODE]](https://cprevost4.github.io/RICOTTA_Software/)
 - [On Cramér-Rao lower bounds with random equality constraints](/pdf/crb_randConst.pdf) - Prévost, C., Chaumette, E., Usevich, K., Brie, D. and Comon, P. - *2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* [[CODE]](https://cprevost4.github.io/RCCRB_Software/)
@@ -25,8 +26,7 @@ Inter-image Variability](https://hal.archives-ouvertes.fr/hal-03106874/), Borsoi
 - [Super-résolution multi-images en IRM par approximation de Tucker couplée](https://hal.archives-ouvertes.fr/hal-03689304) - Prévost, C., Odille, F. - *2022 GRETSI* [[CODE]](https://cprevost4.github.io/RICOTTA_Software/)
 - [Approches tensorielles couplées pour la fusion aveugle d'images multispectrale et hyperspectrale](https://hal.archives-ouvertes.fr/hal-02282433) - Prévost, C., Usevich, K., Comon, P. and Brie, D. - *2019 GRETSI* [[CODE]](https://cprevost4.github.io/HSR_Software/)
 
-### Preprints
-- [NONNEGATIVE BLOCK-TERM DECOMPOSITION WITH THE BETA-DIVERGENCE: JOINT DATA FUSION AND BLIND SPECTRAL UNMIXING](https://hal.archives-ouvertes.fr/hal-03831661) - Prévost, C. and Leplat, V. 
+### Preprints 
 - [On the efficiency of blind and non-blind estimation for coupled LL1 tensor models using the randomly-constrained Cramér-Rao bound](https://hal.archives-ouvertes.fr/hal-03504402) - Prévost C., Usevich, K., Chaumette, E., Brie, D. and Comon, P.
 
 ### Thesis
