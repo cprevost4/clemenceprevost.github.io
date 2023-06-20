@@ -3,6 +3,14 @@ layout: page
 title: Projects
 ---
 
+## Non-negative tensor factorization with rank-revealing constraints
+
+Estimation of the rank is a key issue of tensor factorization, especially when solving approximations problems. In this project, we design a family of optimization methods based on the beta-divergence, to solve non-negative tensor approximation problems with a variety of noise statistics. <br/>
+Motivated by mixing models, we place a minimum-volume constraint on the sources. This penalized variant circumvents possible rank deficiencies in the case of, e.g., very similar materials with almost colinear spectral signatures. 
+The constraint also successfully estimates the number of sources in the image.
+
+---
+
 ## Super-resolution and unmixing in remote sensing
 
 In remote sensing, the problem of super-resolution aims at reconstructing a high-resolution data cube from a hyperspectral and a multispectral image of the same scene. The hyperspectral image is spatially-degraded but has as high spectral resolution, while the multispectral image has high spatial resolution, at the cost of a low spectral resolution.
