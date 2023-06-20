@@ -9,7 +9,7 @@
 title: Clémence Prévost
 
 # A short description
-description: Post-doctoral fellow, Univ. Lille, France
+description: Associate Professor, Univ. Lille, France
 
 # Your name to show in the footer
 author: Clémence Prévost
@@ -24,7 +24,7 @@ navbar-links:
   Teaching: "teaching"
   CV: 
     - FR: "/assets/img/CV_FR.pdf"
-    - EN: "/assets/img/cv3.pdf"
+    - EN: "/assets/img/cv.pdf"
 
 # --- Logo --- #
 
