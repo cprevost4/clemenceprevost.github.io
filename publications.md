@@ -21,7 +21,7 @@ Inter-image Variability](https://hal.archives-ouvertes.fr/hal-03106874/), Borsoi
 - [Coupled tensor low-rank multilinear approximation for hyperspectral super-resolution](/pdf/HSR_ICASSP_short.pdf) - Prévost, C., Usevich, K., Comon, P. and Brie, D. - *2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* [[CODE]](https://cprevost4.github.io/HSR_Software/)
 
 ### National conference papers
-- [Super-résolution hyperspectrale et démélange conjoints : approche tensorielle sous contraintes de positivité et semi-aveugle basée sur la beta-divergence]((https://hal.science/hal-04138618)) - Prévost, C. and Leplat, V. - To appear in *2023 GRETSI*
+- [Super-résolution hyperspectrale et démélange conjoints : approche tensorielle sous contraintes de positivité et semi-aveugle basée sur la beta-divergence](https://hal.science/hal-04138618) - Prévost, C. and Leplat, V. - To appear in *2023 GRETSI*
 - [Tensor-based image fusion accounting for inter-image variability: Recoverability and algorithms] - Prévost C., Borsoi R., Usevich K., Brie D., Bermudez J.M. and Richard, C. - *2022 GRETSI*
 - [ Factorisation tensorielle couplée en termes de rangs (L, L, 1) : application conjointe à la super-résolution hyperspectrale et au démélange en présence de variabilité spectrale](https://hal.archives-ouvertes.fr/hal-03689360) - Prévost C., Borsoi R., Usevich K., Brie D., Bermudez J.M. and Richard, C. - *2022 GRETSI* [[CODE]](https://cprevost4.github.io/LL1_HSR_HU/)
 - [Super-résolution multi-images en IRM par approximation de Tucker couplée](https://hal.archives-ouvertes.fr/hal-03689304) - Prévost, C., Odille, F. - *2022 GRETSI* [[CODE]](https://cprevost4.github.io/RICOTTA_Software/)
