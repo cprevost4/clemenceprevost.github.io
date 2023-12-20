@@ -17,6 +17,7 @@ author: Clémence Prévost
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Job offers: "jobs"
   About: "aboutme"
   Publications: "publications"
   Codes: "codes"
@@ -25,6 +26,7 @@ navbar-links:
   CV: 
     - FR: "/assets/img/CV_FR.pdf"
     - EN: "/assets/img/cv.pdf"
+  
 
 # --- Logo --- #
 
