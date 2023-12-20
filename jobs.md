@@ -8,6 +8,6 @@ This internship can take place anytime between February 2024 and September 2024 
 
 This internship aims at designing tensor methods for multispectral image demosaicing. The proposed approach will be benchmarked with the matrix-based state-of-the-art on this topic.
 It will be tested on real images, e.g., from the CAVE of HyTexila databases. 
-A detailed proposal, in french and in english, can be accessed  <a href="assets/img/sujet_M2_short.pdf">here</a>.
+A detailed proposal, in french and in english, can be accessed [here](/assets/img/sujet_M2_short.pdf)
 
 For any inquiries please <a href="mailto:clemence.prevost@univ-lille.fr">contact me. </a>
