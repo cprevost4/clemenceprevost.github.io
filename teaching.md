@@ -1,1 +1,30 @@
+---
+layout: page
+title: Teaching
+---
+
+## Général
+
+J'enseigne au département Electronique, Electrotechnique et Automatique (EEA) de la Faculté des Sciences et Techniques de Lille. Vous me trouverez au bâtiment P2, sur le campus.<br>
+```
+E-mail: clemence.prevost@univ-lille.fr
+```
+
+## Licence EEA
+
+- Logique-Automatique1 (S3) - TD et TP
+- Logique-Automatique2, Partie Logique (S4) - TD et TP
+- Renforcement en EEA, option Auto (S4) - CTD et TP
+- Projet technique en Vision (S6) - TP
+
+## Master GI Industrie 4.0
+
+- Génie Logiciel Industriel (S1-GI et S2-ASE) - TP
+
+## Master Info
+
+- Analyse d'images et Vision 1 (S2-RVA) - CTD et TP
+
+
+
 
