@@ -28,6 +28,9 @@ Inter-image Variability](https://hal.archives-ouvertes.fr/hal-03106874/), Borsoi
 - [Approches tensorielles couplées pour la fusion aveugle d'images multispectrale et hyperspectrale](https://hal.archives-ouvertes.fr/hal-02282433) - Prévost, C., Usevich, K., Comon, P. and Brie, D. - *2019 GRETSI* [[CODE]](https://cprevost4.github.io/HSR_Software/)
 
 ### Preprints 
+- [Non-local tensor sparse coding for multi-image super-resolution in magnetic resonance imaging](https://hal.science/hal-04302420) - Prévost, C. and Odille, F.
+- [DATA FUSION AND UNMIXING WITH THE REGULARIZED NON-NEGATIVE BLOCK-TERM DECOMPOSITION: JOINT PROBLEMS, BLIND APPROACH AND AUTOMATIC MODEL ORDER SELECTION](https://hal.science/hal-04302397) - Prévost, C. and Leplat, V.
+- [HIGH-DIMENSIONAL, LOW-RANK TENSOR APPROXIMATION: CRAMÉR-RAO LOWER BOUNDS AND APPLICATION TO MIMO CHANNELS](https://hal.science/hal-04302405) - Prévost, C. and Chainais, P.
 - [On the efficiency of blind and non-blind estimation for coupled LL1 tensor models using the randomly-constrained Cramér-Rao bound](https://hal.archives-ouvertes.fr/hal-03504402) - Prévost C., Usevich, K., Chaumette, E., Brie, D. and Comon, P.
 
 ### Thesis
