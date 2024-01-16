@@ -32,11 +32,15 @@ This includes applications in <b>astrophysics, remote sensing, and biomedical im
 
 ## Others
 
+### Services
+
+- (2024 - 2026) Elected member of <b>EURASIP TAC TMTSP</b>
+
 ### Organization of conferences and seminars
 
 - <b>Student member in the organizing commitee</b> for ENBIS 2018 (Nancy, FR 🇫🇷): preparation, registration and technical support
 - <b>Student member in the organizing commitee</b> for CAMSAP 2019 (Le Gosier, Guadeloupe, West Indies, FR 🇫🇷): registration
-- <b>Organizer of the PhD Coffee</b>, a monthly seminar dedicated to non-permanent researchers of the SIGMA team in the CRIStAL laboratory.
+- <b>Organizer of the PhD Coffee</b>, a monthly seminar dedicated to non-permanent researchers of the SIGMA team in the CRIStAL laboratory
 
 ### Reviewer
 
