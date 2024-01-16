@@ -47,5 +47,5 @@ IEEE Transactions on Signal Processing, IEEE Transactions on Geoscience and Remo
 - My thesis, defended in 2021, was awarded the prize of Best Thesis of the IAEM Doctoral School of University of Lorraine.
 - In 2022, I participated to the international mediation competition <b>Ma thèse en 180 secondes</b>. I ranked 3rd for the Grand-Est region ! 🎉
 - In 2023, I was a recipient of the national grant "For Women in Science", delivered by Fondation L'Oréal and UNESCO. 🦸‍♀️
-If you are interested in applying this year, don't hesitate to <a> </a>
+If you are interested in applying this year, don't hesitate to <a href="mailto:clemence.prevost@univ-lille.fr">contact me. </a>
 
