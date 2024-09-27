@@ -15,13 +15,18 @@ E-mail: clemence.prevost@univ-lille.fr
 
 - Informatique (S3) - TD et TP
 - Logique-Automatique1 (S3) - TD et TP
-- Logique-Automatique2, Partie Logique (S4) - TD et TP
+- Logique-Automatique2, Partie Logique (S4) - CM, TD et TP
 - Renforcement en EEA, option Auto (S4) - CTD et TP
 - Projet technique en Vision (S6) - TP
 
 ## Master GI Industrie 4.0
 
-- Génie Logiciel Industriel (S1-GI et S2-ASE) - TP
+- Génie Logiciel Industriel - TP
+
+## Master ASE parcours SMART
+
+- Génie Logiciel - TP
+- Traitement du signal - TD et TP
 
 ## Master Info
 
