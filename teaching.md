@@ -19,18 +19,18 @@ E-mail: clemence.prevost@univ-lille.fr
 - Renforcement en EEA, option Auto (S4) - CTD et TP
 - Projet technique en Vision (S6) - TP
 
-## Master GI Industrie 4.0
+## Master1 GI Industrie 4.0
 
-- Génie Logiciel Industriel - TP
+- Génie Logiciel Industriel (S1) - TP
 
-## Master ASE parcours SMART
+## Master1 ASE parcours SMART
 
-- Génie Logiciel - TP
-- Traitement du signal - TD et TP
+- Traitement du signal (S1) - TD et TP
+- Génie Logiciel (S2) - TP
 
-## Master Info
+## Master Info parcours RVA
 
-- Analyse d'images et Vision 1 (S2-RVA) - CTD et TP
+- Analyse d'images et Vision 1 (S2) - CTD et TP
 
 
 
