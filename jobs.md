@@ -33,6 +33,6 @@ the three dimensions. This internship hence aims at designing super-resolution m
 Synchrotron images. The proposed algorithms must be compatible with the large volume spanned by the
 data as well as the high variability in the acquisition process.
 
-Please find the detailed proposal <a> here </a>.
+Please find the detailed proposal [[here]](https://cprevost4.github.io/assets/img/stage_M2.pdf)
 
 For any inquiries please <a href="mailto:clemence.prevost@univ-lille.fr">contact me. </a>
